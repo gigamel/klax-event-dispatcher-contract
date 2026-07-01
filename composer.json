@@ -1,0 +1,13 @@
+{
+  "name": "klax/event-dispatcher-contract",
+  "description": "Event Dispatcher contract",
+  "autoload": {
+    "psr-4": {
+      "Klax\\EventDispatcher\\Contract\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.3",
+    "psr/event-dispatcher": "^1.0"
+  }
+}
